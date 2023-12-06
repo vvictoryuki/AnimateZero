@@ -17,3 +17,45 @@
 We have showcased some results of image animation using AnimateZero on generated images below. 
 
 More results can be found on our [Project Page](https://vvictoryuki.github.io/animatezero.github.io/).
+
+<table>
+  <tr>
+    <td><img src="teaser/images/1.jpg" alt="Image 1"></td>
+    <td><img src="teaser/videos/1.gif" alt="Animation 1"></td>
+    <td><img src="teaser/images/2.jpg" alt="Image 2"></td>
+    <td><img src="teaser/videos/2.gif" alt="Animation 1"></td>
+    <td><img src="teaser/images/3.jpg" alt="Image 3"></td>
+    <td><img src="teaser/videos/3.gif" alt="Animation 1"></td>
+  </tr>
+  <tr>
+    <td colspan="2"><center>"1girl, underwater, swimsuit, ..."</center></td>
+    <td colspan="2"><center>"1girl, black jacket, long sleeves, ..."</center></td>
+    <td colspan="2"><center>"dark fantasy, purple eyes, ..."</center></td>
+  </tr>
+  <tr>
+    <td><img src="teaser/images/5.jpg" alt="Image 1"></td>
+    <td><img src="teaser/videos/5.gif" alt="Animation 1"></td>
+    <td><img src="teaser/images/6.jpg" alt="Image 2"></td>
+    <td><img src="teaser/videos/6.gif" alt="Animation 1"></td>
+    <td><img src="teaser/images/141.jpg" alt="Image 3"></td>
+    <td><img src="teaser/videos/141.gif" alt="Animation 1"></td>
+  </tr>
+  <tr>
+    <td colspan="2"><center>"school uniform, JK, sketch, ..."</center></td>
+    <td colspan="2"><center>"pixel art, cat ears, blonde hair, ..."</center></td>
+    <td colspan="2"><center>"a cat head, look to one side"</center></td>
+  </tr>
+  <tr>
+    <td><img src="teaser/images/7.jpg" alt="Image 1"></td>
+    <td><img src="teaser/videos/7.gif" alt="Animation 1"></td>
+    <td><img src="teaser/images/10.jpg" alt="Image 2"></td>
+    <td><img src="teaser/videos/10.gif" alt="Animation 1"></td>
+    <td><img src="teaser/images/153.jpg" alt="Image 3"></td>
+    <td><img src="teaser/videos/153.gif" alt="Animation 1"></td>
+  </tr>
+  <tr>
+    <td colspan="2"><center>"waves hit the beach"</center></td>
+    <td colspan="2"><center>"freckles, orange hair, glasses, ..."</center></td>
+    <td colspan="2"><center>"lighter, flame, candle"</center></td>
+  </tr>
+</table>
