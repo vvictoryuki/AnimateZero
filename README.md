@@ -7,7 +7,7 @@
 <sup>1</sup> Peking University, <sup>2</sup> Tencent AI Lab, <sup>3</sup> HKUST
 
 [![arXiv](https://img.shields.io/badge/arXiv-<Coming_Soon>-<COLOR>.svg)](https://github.com/vvictoryuki/AnimateZero)
-[![Camera Ready Paper](https://img.shields.io/badge/Paper-<Coming_Soon>-red.svg)](https://github.com/vvictoryuki/AnimateZero)
+[![Camera Ready Paper](https://img.shields.io/badge/Paper-<AnimateZero>-red.svg)](https://github.com/vvictoryuki/AnimateZero/blob/main/AnimateZero.pdf)
 [![Home Page](https://img.shields.io/badge/Project_Page-<Gallery>-blue.svg)](https://vvictoryuki.github.io/animatezero.github.io/)
 
 </div>
