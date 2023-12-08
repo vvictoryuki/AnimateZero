@@ -6,7 +6,7 @@
 
 <sup>1</sup> Peking University, <sup>2</sup> Tencent AI Lab, <sup>3</sup> HKUST
 
-[![arXiv](https://img.shields.io/badge/arXiv-<Coming_Soon>-<COLOR>.svg)](https://github.com/vvictoryuki/AnimateZero)
+[![arXiv](https://img.shields.io/badge/arXiv-<AnimateZero>-<COLOR>.svg)](https://arxiv.org/abs/2312.03793)
 [![Camera Ready Paper](https://img.shields.io/badge/Paper-<AnimateZero>-red.svg)](https://github.com/vvictoryuki/AnimateZero/blob/main/AnimateZero.pdf)
 [![Home Page](https://img.shields.io/badge/Project_Page-<Gallery>-blue.svg)](https://vvictoryuki.github.io/animatezero.github.io/)
 
@@ -59,3 +59,13 @@ More results can be found on our [Project Page](https://vvictoryuki.github.io/an
     <td colspan="2"><center>"lighter, flame, candle"</center></td>
   </tr>
 </table>
+
+## BibTeX
+```
+@article{yu2023animatezero,
+  title={AnimateZero: Video Diffusion Models are Zero-Shot Image Animators},
+  author={Yu, Jiwen and Cun, Xiaodong and Qi, Chenyang and Zhang, Yong and Wang, Xintao and Shan, Ying and Zhang, Jian},
+  journal={arXiv preprint arXiv:2312.03793},
+  year={2023}
+}
+```
